@@ -1,5 +1,11 @@
 This is a mirror of http://www.vim.org/scripts/script.php?script_id=4062
 
-:Showtime     -show total time used
+Commands:
+        :Showtime	      show total time spent on vim
 
-:Reset            -reset total time
+        :Resettime           reset total time
+
+        :Showline             show total line written via vim
+
+        :Resetline             reset total line
+
